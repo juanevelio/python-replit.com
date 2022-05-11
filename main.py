@@ -6,3 +6,7 @@ z= 3+2j
 print(z.real)
 
 print(z.imag)
+
+
+cuadrado= z**2
+print(cuadrado)
